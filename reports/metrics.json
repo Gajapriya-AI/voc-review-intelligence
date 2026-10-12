@@ -1,0 +1,39 @@
+{
+  "test_rows": 66,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "classification_report": {
+    "Negative": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 22.0
+    },
+    "Neutral": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 22.0
+    },
+    "Positive": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 22.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 66.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 66.0
+    }
+  },
+  "note": "Metrics are measured on a held-out split of the bundled synthetic starter dataset; they are not evidence of real-world accuracy."
+}

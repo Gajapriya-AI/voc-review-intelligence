@@ -1,0 +1,3 @@
+# Optional: the app talks to a separately installed local Ollama service over localhost.
+# No Python LLM package or automatic model download is required.
+# Install Ollama separately, pull a small model compatible with your RAM, then set OLLAMA_MODEL.

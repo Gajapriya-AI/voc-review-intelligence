@@ -1,0 +1,331 @@
+review,sentiment,category
+"In my experience, the phone battery lasts all day and the camera takes sharp photos.",Positive,Electronics
+"For the price, the phone battery lasts all day and the camera takes sharp photos. I used it for a week.",Positive,Electronics
+"So far, the phone battery lasts all day and the camera takes sharp photos. I used it for a week.",Positive,Electronics
+"In my experience, the phone battery lasts all day and the camera takes sharp photos. I would check this before buying again.",Positive,Electronics
+"In my experience, the phone battery lasts all day and the camera takes sharp photos. The description matched the item.",Positive,Electronics
+"Overall, the phone battery lasts all day and the camera takes sharp photos.",Positive,Electronics
+"Honestly, the phone battery lasts all day and the camera takes sharp photos.",Positive,Electronics
+"So far, the phone battery lasts all day and the camera takes sharp photos. I used it for a week.",Positive,Electronics
+"Honestly, the phone battery lasts all day and the camera takes sharp photos. The description matched the item.",Positive,Electronics
+"So far, the phone battery lasts all day and the camera takes sharp photos. I would check this before buying again.",Positive,Electronics
+"Overall, the laptop runs smoothly and starts quickly. I used it for a week.",Positive,Electronics
+The laptop runs smoothly and starts quickly. The description matched the item.,Positive,Electronics
+"For the price, the laptop runs smoothly and starts quickly.",Positive,Electronics
+"After trying it, the laptop runs smoothly and starts quickly. I would check this before buying again.",Positive,Electronics
+"Overall, the laptop runs smoothly and starts quickly. This is my first impression.",Positive,Electronics
+"For the price, the laptop runs smoothly and starts quickly. I used it for a week.",Positive,Electronics
+"So far, the laptop runs smoothly and starts quickly. This is my first impression.",Positive,Electronics
+"In my experience, the laptop runs smoothly and starts quickly.",Positive,Electronics
+"Overall, the laptop runs smoothly and starts quickly.",Positive,Electronics
+I noticed that the laptop runs smoothly and starts quickly. This is my first impression.,Positive,Electronics
+"For the price, the headphones have clear sound and comfortable ear cushions.",Positive,Electronics
+The headphones have clear sound and comfortable ear cushions. The description matched the item.,Positive,Electronics
+"In my experience, the headphones have clear sound and comfortable ear cushions. I bought it online.",Positive,Electronics
+"In my experience, the headphones have clear sound and comfortable ear cushions. The description matched the item.",Positive,Electronics
+"For the price, the headphones have clear sound and comfortable ear cushions. I would check this before buying again.",Positive,Electronics
+I noticed that the headphones have clear sound and comfortable ear cushions. The description matched the item.,Positive,Electronics
+"So far, the headphones have clear sound and comfortable ear cushions. I would check this before buying again.",Positive,Electronics
+"In my experience, the headphones have clear sound and comfortable ear cushions.",Positive,Electronics
+"So far, the headphones have clear sound and comfortable ear cushions. This is my first impression.",Positive,Electronics
+"In my experience, the headphones have clear sound and comfortable ear cushions. I used it for a week.",Positive,Electronics
+"In my experience, the washing machine cleans clothes well and runs quietly. I bought it online.",Positive,Home Appliances
+"For the price, the washing machine cleans clothes well and runs quietly. I bought it online.",Positive,Home Appliances
+I noticed that the washing machine cleans clothes well and runs quietly. I used it for a week.,Positive,Home Appliances
+I noticed that the washing machine cleans clothes well and runs quietly. This is my first impression.,Positive,Home Appliances
+"So far, the washing machine cleans clothes well and runs quietly. I would check this before buying again.",Positive,Home Appliances
+"For the price, the washing machine cleans clothes well and runs quietly. I would check this before buying again.",Positive,Home Appliances
+"In my experience, the washing machine cleans clothes well and runs quietly. The description matched the item.",Positive,Home Appliances
+"After trying it, the washing machine cleans clothes well and runs quietly. The description matched the item.",Positive,Home Appliances
+"So far, the washing machine cleans clothes well and runs quietly. I used it for a week.",Positive,Home Appliances
+The washing machine cleans clothes well and runs quietly. I bought it online.,Positive,Home Appliances
+"For the price, the refrigerator keeps food fresh and uses little energy. I would check this before buying again.",Positive,Home Appliances
+"So far, the refrigerator keeps food fresh and uses little energy. I would check this before buying again.",Positive,Home Appliances
+I noticed that the refrigerator keeps food fresh and uses little energy.,Positive,Home Appliances
+"So far, the refrigerator keeps food fresh and uses little energy.",Positive,Home Appliances
+I noticed that the refrigerator keeps food fresh and uses little energy. I bought it online.,Positive,Home Appliances
+"For the price, the refrigerator keeps food fresh and uses little energy.",Positive,Home Appliances
+"So far, the refrigerator keeps food fresh and uses little energy. The description matched the item.",Positive,Home Appliances
+I noticed that the refrigerator keeps food fresh and uses little energy. I used it for a week.,Positive,Home Appliances
+The refrigerator keeps food fresh and uses little energy. I bought it online.,Positive,Home Appliances
+The refrigerator keeps food fresh and uses little energy. I used it for a week.,Positive,Home Appliances
+"For the price, the shirt fabric feels soft and the stitching is excellent. I used it for a week.",Positive,Fashion & Apparel
+"So far, the shirt fabric feels soft and the stitching is excellent. I would check this before buying again.",Positive,Fashion & Apparel
+"For the price, the shirt fabric feels soft and the stitching is excellent. I would check this before buying again.",Positive,Fashion & Apparel
+"Overall, the shirt fabric feels soft and the stitching is excellent. The description matched the item.",Positive,Fashion & Apparel
+"Overall, the shirt fabric feels soft and the stitching is excellent. This is my first impression.",Positive,Fashion & Apparel
+"So far, the shirt fabric feels soft and the stitching is excellent. I used it for a week.",Positive,Fashion & Apparel
+The shirt fabric feels soft and the stitching is excellent.,Positive,Fashion & Apparel
+"Honestly, the shirt fabric feels soft and the stitching is excellent.",Positive,Fashion & Apparel
+"After trying it, the shirt fabric feels soft and the stitching is excellent. I would check this before buying again.",Positive,Fashion & Apparel
+"After trying it, the shirt fabric feels soft and the stitching is excellent. I would check this before buying again.",Positive,Fashion & Apparel
+"Overall, these shoes are comfortable and the sizing is accurate. The description matched the item.",Positive,Fashion & Apparel
+"In my experience, these shoes are comfortable and the sizing is accurate. I bought it online.",Positive,Fashion & Apparel
+"Overall, these shoes are comfortable and the sizing is accurate. The description matched the item.",Positive,Fashion & Apparel
+These shoes are comfortable and the sizing is accurate. The description matched the item.,Positive,Fashion & Apparel
+"For the price, these shoes are comfortable and the sizing is accurate. The description matched the item.",Positive,Fashion & Apparel
+"Honestly, these shoes are comfortable and the sizing is accurate. I would check this before buying again.",Positive,Fashion & Apparel
+"In my experience, these shoes are comfortable and the sizing is accurate. I would check this before buying again.",Positive,Fashion & Apparel
+"For the price, these shoes are comfortable and the sizing is accurate. I would check this before buying again.",Positive,Fashion & Apparel
+I noticed that these shoes are comfortable and the sizing is accurate.,Positive,Fashion & Apparel
+"For the price, these shoes are comfortable and the sizing is accurate. I bought it online.",Positive,Fashion & Apparel
+"After trying it, the moisturizer feels light and leaves my skin soft. I bought it online.",Positive,Beauty & Personal Care
+"Honestly, the moisturizer feels light and leaves my skin soft. I would check this before buying again.",Positive,Beauty & Personal Care
+"For the price, the moisturizer feels light and leaves my skin soft. The description matched the item.",Positive,Beauty & Personal Care
+"After trying it, the moisturizer feels light and leaves my skin soft. The description matched the item.",Positive,Beauty & Personal Care
+"In my experience, the moisturizer feels light and leaves my skin soft. I would check this before buying again.",Positive,Beauty & Personal Care
+"For the price, the moisturizer feels light and leaves my skin soft. I would check this before buying again.",Positive,Beauty & Personal Care
+"So far, the moisturizer feels light and leaves my skin soft. I used it for a week.",Positive,Beauty & Personal Care
+I noticed that the moisturizer feels light and leaves my skin soft. I used it for a week.,Positive,Beauty & Personal Care
+"Honestly, the moisturizer feels light and leaves my skin soft. The description matched the item.",Positive,Beauty & Personal Care
+I noticed that the moisturizer feels light and leaves my skin soft. I bought it online.,Positive,Beauty & Personal Care
+"Honestly, the snacks taste fresh and the packaging was intact.",Positive,Food & Grocery
+I noticed that the snacks taste fresh and the packaging was intact. This is my first impression.,Positive,Food & Grocery
+"So far, the snacks taste fresh and the packaging was intact.",Positive,Food & Grocery
+"So far, the snacks taste fresh and the packaging was intact. The description matched the item.",Positive,Food & Grocery
+"In my experience, the snacks taste fresh and the packaging was intact.",Positive,Food & Grocery
+The snacks taste fresh and the packaging was intact.,Positive,Food & Grocery
+"After trying it, the snacks taste fresh and the packaging was intact. I used it for a week.",Positive,Food & Grocery
+The snacks taste fresh and the packaging was intact. The description matched the item.,Positive,Food & Grocery
+"After trying it, the snacks taste fresh and the packaging was intact. This is my first impression.",Positive,Food & Grocery
+"Overall, the snacks taste fresh and the packaging was intact. I used it for a week.",Positive,Food & Grocery
+"So far, the chair is sturdy, comfortable, and easy to assemble. I would check this before buying again.",Positive,Furniture & Home
+"For the price, the chair is sturdy, comfortable, and easy to assemble. I bought it online.",Positive,Furniture & Home
+"I noticed that the chair is sturdy, comfortable, and easy to assemble. I bought it online.",Positive,Furniture & Home
+"The chair is sturdy, comfortable, and easy to assemble.",Positive,Furniture & Home
+"So far, the chair is sturdy, comfortable, and easy to assemble. I used it for a week.",Positive,Furniture & Home
+"In my experience, the chair is sturdy, comfortable, and easy to assemble. This is my first impression.",Positive,Furniture & Home
+"Honestly, the chair is sturdy, comfortable, and easy to assemble. The description matched the item.",Positive,Furniture & Home
+"So far, the chair is sturdy, comfortable, and easy to assemble. The description matched the item.",Positive,Furniture & Home
+"So far, the chair is sturdy, comfortable, and easy to assemble.",Positive,Furniture & Home
+"In my experience, the chair is sturdy, comfortable, and easy to assemble. I would check this before buying again.",Positive,Furniture & Home
+"Honestly, the product is easy to use and offers great value for money. I used it for a week.",Positive,Other Products
+"In my experience, the product is easy to use and offers great value for money.",Positive,Other Products
+I noticed that the product is easy to use and offers great value for money.,Positive,Other Products
+"So far, the product is easy to use and offers great value for money. This is my first impression.",Positive,Other Products
+The product is easy to use and offers great value for money. I used it for a week.,Positive,Other Products
+"After trying it, the product is easy to use and offers great value for money. I would check this before buying again.",Positive,Other Products
+The product is easy to use and offers great value for money. I used it for a week.,Positive,Other Products
+The product is easy to use and offers great value for money. I bought it online.,Positive,Other Products
+"So far, the product is easy to use and offers great value for money.",Positive,Other Products
+"In my experience, the product is easy to use and offers great value for money. I would check this before buying again.",Positive,Other Products
+"Overall, the phone battery drains fast and the camera quality is poor. This is my first impression.",Negative,Electronics
+"Overall, the phone battery drains fast and the camera quality is poor. I bought it online.",Negative,Electronics
+The phone battery drains fast and the camera quality is poor. I would check this before buying again.,Negative,Electronics
+"Honestly, the phone battery drains fast and the camera quality is poor. I would check this before buying again.",Negative,Electronics
+"In my experience, the phone battery drains fast and the camera quality is poor.",Negative,Electronics
+"Overall, the phone battery drains fast and the camera quality is poor. I would check this before buying again.",Negative,Electronics
+I noticed that the phone battery drains fast and the camera quality is poor.,Negative,Electronics
+"So far, the phone battery drains fast and the camera quality is poor. I used it for a week.",Negative,Electronics
+"So far, the phone battery drains fast and the camera quality is poor. The description matched the item.",Negative,Electronics
+The phone battery drains fast and the camera quality is poor. I used it for a week.,Negative,Electronics
+"Overall, the laptop is slow and keeps freezing during normal use. I used it for a week.",Negative,Electronics
+"For the price, the laptop is slow and keeps freezing during normal use. I bought it online.",Negative,Electronics
+"So far, the laptop is slow and keeps freezing during normal use.",Negative,Electronics
+The laptop is slow and keeps freezing during normal use. The description matched the item.,Negative,Electronics
+"In my experience, the laptop is slow and keeps freezing during normal use.",Negative,Electronics
+"Honestly, the laptop is slow and keeps freezing during normal use.",Negative,Electronics
+"So far, the laptop is slow and keeps freezing during normal use. I used it for a week.",Negative,Electronics
+"Overall, the laptop is slow and keeps freezing during normal use. I bought it online.",Negative,Electronics
+The laptop is slow and keeps freezing during normal use. I used it for a week.,Negative,Electronics
+"Overall, the laptop is slow and keeps freezing during normal use.",Negative,Electronics
+"After trying it, the headphones disconnect often and the sound is disappointing. I bought it online.",Negative,Electronics
+"Honestly, the headphones disconnect often and the sound is disappointing. I bought it online.",Negative,Electronics
+"For the price, the headphones disconnect often and the sound is disappointing. I bought it online.",Negative,Electronics
+"For the price, the headphones disconnect often and the sound is disappointing. I bought it online.",Negative,Electronics
+The headphones disconnect often and the sound is disappointing. I used it for a week.,Negative,Electronics
+"So far, the headphones disconnect often and the sound is disappointing. This is my first impression.",Negative,Electronics
+"So far, the headphones disconnect often and the sound is disappointing.",Negative,Electronics
+"Honestly, the headphones disconnect often and the sound is disappointing. I would check this before buying again.",Negative,Electronics
+I noticed that the headphones disconnect often and the sound is disappointing.,Negative,Electronics
+"Honestly, the headphones disconnect often and the sound is disappointing. The description matched the item.",Negative,Electronics
+The washing machine is noisy and leaves stains on clothes. The description matched the item.,Negative,Home Appliances
+"After trying it, the washing machine is noisy and leaves stains on clothes.",Negative,Home Appliances
+"In my experience, the washing machine is noisy and leaves stains on clothes. I used it for a week.",Negative,Home Appliances
+"In my experience, the washing machine is noisy and leaves stains on clothes. The description matched the item.",Negative,Home Appliances
+"In my experience, the washing machine is noisy and leaves stains on clothes. I would check this before buying again.",Negative,Home Appliances
+"So far, the washing machine is noisy and leaves stains on clothes. I bought it online.",Negative,Home Appliances
+"In my experience, the washing machine is noisy and leaves stains on clothes. The description matched the item.",Negative,Home Appliances
+"So far, the washing machine is noisy and leaves stains on clothes. The description matched the item.",Negative,Home Appliances
+"Honestly, the washing machine is noisy and leaves stains on clothes. The description matched the item.",Negative,Home Appliances
+"In my experience, the washing machine is noisy and leaves stains on clothes. I bought it online.",Negative,Home Appliances
+I noticed that the refrigerator is too noisy and arrived damaged. This is my first impression.,Negative,Home Appliances
+"So far, the refrigerator is too noisy and arrived damaged. I would check this before buying again.",Negative,Home Appliances
+I noticed that the refrigerator is too noisy and arrived damaged. I used it for a week.,Negative,Home Appliances
+"For the price, the refrigerator is too noisy and arrived damaged. I bought it online.",Negative,Home Appliances
+"After trying it, the refrigerator is too noisy and arrived damaged. I would check this before buying again.",Negative,Home Appliances
+"For the price, the refrigerator is too noisy and arrived damaged. I bought it online.",Negative,Home Appliances
+I noticed that the refrigerator is too noisy and arrived damaged.,Negative,Home Appliances
+"Honestly, the refrigerator is too noisy and arrived damaged. I bought it online.",Negative,Home Appliances
+"In my experience, the refrigerator is too noisy and arrived damaged.",Negative,Home Appliances
+"So far, the refrigerator is too noisy and arrived damaged. The description matched the item.",Negative,Home Appliances
+"For the price, the shirt fabric is poor quality and the stitching came apart. I used it for a week.",Negative,Fashion & Apparel
+I noticed that the shirt fabric is poor quality and the stitching came apart.,Negative,Fashion & Apparel
+"So far, the shirt fabric is poor quality and the stitching came apart. This is my first impression.",Negative,Fashion & Apparel
+"For the price, the shirt fabric is poor quality and the stitching came apart. I used it for a week.",Negative,Fashion & Apparel
+The shirt fabric is poor quality and the stitching came apart. The description matched the item.,Negative,Fashion & Apparel
+"For the price, the shirt fabric is poor quality and the stitching came apart. The description matched the item.",Negative,Fashion & Apparel
+"Honestly, the shirt fabric is poor quality and the stitching came apart. I would check this before buying again.",Negative,Fashion & Apparel
+"For the price, the shirt fabric is poor quality and the stitching came apart. I would check this before buying again.",Negative,Fashion & Apparel
+"In my experience, the shirt fabric is poor quality and the stitching came apart. I used it for a week.",Negative,Fashion & Apparel
+"For the price, the shirt fabric is poor quality and the stitching came apart.",Negative,Fashion & Apparel
+"In my experience, the shoes are uncomfortable and the sizing is wrong. I would check this before buying again.",Negative,Fashion & Apparel
+"After trying it, the shoes are uncomfortable and the sizing is wrong. This is my first impression.",Negative,Fashion & Apparel
+"For the price, the shoes are uncomfortable and the sizing is wrong. The description matched the item.",Negative,Fashion & Apparel
+"So far, the shoes are uncomfortable and the sizing is wrong. I would check this before buying again.",Negative,Fashion & Apparel
+I noticed that the shoes are uncomfortable and the sizing is wrong. I used it for a week.,Negative,Fashion & Apparel
+"For the price, the shoes are uncomfortable and the sizing is wrong. The description matched the item.",Negative,Fashion & Apparel
+The shoes are uncomfortable and the sizing is wrong. This is my first impression.,Negative,Fashion & Apparel
+"Honestly, the shoes are uncomfortable and the sizing is wrong.",Negative,Fashion & Apparel
+"Overall, the shoes are uncomfortable and the sizing is wrong. This is my first impression.",Negative,Fashion & Apparel
+"Honestly, the shoes are uncomfortable and the sizing is wrong.",Negative,Fashion & Apparel
+I noticed that the cream caused irritation and has a strong unpleasant smell. I used it for a week.,Negative,Beauty & Personal Care
+"For the price, the cream caused irritation and has a strong unpleasant smell. I used it for a week.",Negative,Beauty & Personal Care
+The cream caused irritation and has a strong unpleasant smell. The description matched the item.,Negative,Beauty & Personal Care
+"Overall, the cream caused irritation and has a strong unpleasant smell. The description matched the item.",Negative,Beauty & Personal Care
+"Honestly, the cream caused irritation and has a strong unpleasant smell.",Negative,Beauty & Personal Care
+"In my experience, the cream caused irritation and has a strong unpleasant smell. I would check this before buying again.",Negative,Beauty & Personal Care
+"After trying it, the cream caused irritation and has a strong unpleasant smell. The description matched the item.",Negative,Beauty & Personal Care
+"Honestly, the cream caused irritation and has a strong unpleasant smell. This is my first impression.",Negative,Beauty & Personal Care
+"After trying it, the cream caused irritation and has a strong unpleasant smell. I bought it online.",Negative,Beauty & Personal Care
+"After trying it, the cream caused irritation and has a strong unpleasant smell.",Negative,Beauty & Personal Care
+"For the price, the food tasted stale and the package was leaking. This is my first impression.",Negative,Food & Grocery
+"Honestly, the food tasted stale and the package was leaking. This is my first impression.",Negative,Food & Grocery
+"So far, the food tasted stale and the package was leaking. I would check this before buying again.",Negative,Food & Grocery
+"So far, the food tasted stale and the package was leaking. I would check this before buying again.",Negative,Food & Grocery
+"In my experience, the food tasted stale and the package was leaking. This is my first impression.",Negative,Food & Grocery
+"Overall, the food tasted stale and the package was leaking. The description matched the item.",Negative,Food & Grocery
+"After trying it, the food tasted stale and the package was leaking. I used it for a week.",Negative,Food & Grocery
+"After trying it, the food tasted stale and the package was leaking. I used it for a week.",Negative,Food & Grocery
+"Overall, the food tasted stale and the package was leaking.",Negative,Food & Grocery
+"After trying it, the food tasted stale and the package was leaking. I would check this before buying again.",Negative,Food & Grocery
+I noticed that the chair feels flimsy and the instructions are difficult to follow. I bought it online.,Negative,Furniture & Home
+"So far, the chair feels flimsy and the instructions are difficult to follow. This is my first impression.",Negative,Furniture & Home
+"After trying it, the chair feels flimsy and the instructions are difficult to follow. I would check this before buying again.",Negative,Furniture & Home
+"In my experience, the chair feels flimsy and the instructions are difficult to follow. I bought it online.",Negative,Furniture & Home
+"Honestly, the chair feels flimsy and the instructions are difficult to follow. I bought it online.",Negative,Furniture & Home
+"So far, the chair feels flimsy and the instructions are difficult to follow. I used it for a week.",Negative,Furniture & Home
+The chair feels flimsy and the instructions are difficult to follow. This is my first impression.,Negative,Furniture & Home
+"For the price, the chair feels flimsy and the instructions are difficult to follow. I used it for a week.",Negative,Furniture & Home
+"So far, the chair feels flimsy and the instructions are difficult to follow.",Negative,Furniture & Home
+"So far, the chair feels flimsy and the instructions are difficult to follow. I bought it online.",Negative,Furniture & Home
+I noticed that the product broke quickly and customer support was unhelpful. This is my first impression.,Negative,Other Products
+"In my experience, the product broke quickly and customer support was unhelpful. This is my first impression.",Negative,Other Products
+I noticed that the product broke quickly and customer support was unhelpful. I would check this before buying again.,Negative,Other Products
+"Overall, the product broke quickly and customer support was unhelpful. I would check this before buying again.",Negative,Other Products
+I noticed that the product broke quickly and customer support was unhelpful.,Negative,Other Products
+"In my experience, the product broke quickly and customer support was unhelpful. This is my first impression.",Negative,Other Products
+"After trying it, the product broke quickly and customer support was unhelpful. The description matched the item.",Negative,Other Products
+"For the price, the product broke quickly and customer support was unhelpful.",Negative,Other Products
+"In my experience, the product broke quickly and customer support was unhelpful. The description matched the item.",Negative,Other Products
+"Overall, the product broke quickly and customer support was unhelpful. This is my first impression.",Negative,Other Products
+I noticed that the phone has a 6.5 inch display and 128 GB storage. I bought it online.,Neutral,Electronics
+"In my experience, the phone has a 6.5 inch display and 128 GB storage. I bought it online.",Neutral,Electronics
+"So far, the phone has a 6.5 inch display and 128 GB storage. This is my first impression.",Neutral,Electronics
+"Honestly, the phone has a 6.5 inch display and 128 GB storage. I would check this before buying again.",Neutral,Electronics
+"Overall, the phone has a 6.5 inch display and 128 GB storage.",Neutral,Electronics
+"So far, the phone has a 6.5 inch display and 128 GB storage. This is my first impression.",Neutral,Electronics
+"Overall, the phone has a 6.5 inch display and 128 GB storage.",Neutral,Electronics
+I noticed that the phone has a 6.5 inch display and 128 GB storage. The description matched the item.,Neutral,Electronics
+I noticed that the phone has a 6.5 inch display and 128 GB storage. I would check this before buying again.,Neutral,Electronics
+"In my experience, the phone has a 6.5 inch display and 128 GB storage. I would check this before buying again.",Neutral,Electronics
+"For the price, the laptop arrived with a charger and a short instruction guide. The description matched the item.",Neutral,Electronics
+"For the price, the laptop arrived with a charger and a short instruction guide. I would check this before buying again.",Neutral,Electronics
+"Overall, the laptop arrived with a charger and a short instruction guide. This is my first impression.",Neutral,Electronics
+"Overall, the laptop arrived with a charger and a short instruction guide. I would check this before buying again.",Neutral,Electronics
+"For the price, the laptop arrived with a charger and a short instruction guide. The description matched the item.",Neutral,Electronics
+"After trying it, the laptop arrived with a charger and a short instruction guide. I used it for a week.",Neutral,Electronics
+"Overall, the laptop arrived with a charger and a short instruction guide. I would check this before buying again.",Neutral,Electronics
+"Overall, the laptop arrived with a charger and a short instruction guide. I would check this before buying again.",Neutral,Electronics
+"After trying it, the laptop arrived with a charger and a short instruction guide. The description matched the item.",Neutral,Electronics
+"For the price, the laptop arrived with a charger and a short instruction guide. I bought it online.",Neutral,Electronics
+"Honestly, the headphones are black and include a USB charging cable. This is my first impression.",Neutral,Electronics
+"For the price, the headphones are black and include a USB charging cable. I used it for a week.",Neutral,Electronics
+"Overall, the headphones are black and include a USB charging cable. The description matched the item.",Neutral,Electronics
+I noticed that the headphones are black and include a USB charging cable. I bought it online.,Neutral,Electronics
+The headphones are black and include a USB charging cable. I bought it online.,Neutral,Electronics
+"So far, the headphones are black and include a USB charging cable. The description matched the item.",Neutral,Electronics
+The headphones are black and include a USB charging cable. I would check this before buying again.,Neutral,Electronics
+"After trying it, the headphones are black and include a USB charging cable. I would check this before buying again.",Neutral,Electronics
+"In my experience, the headphones are black and include a USB charging cable. This is my first impression.",Neutral,Electronics
+I noticed that the headphones are black and include a USB charging cable.,Neutral,Electronics
+"So far, the washing machine has several wash modes and a timer. I would check this before buying again.",Neutral,Home Appliances
+"For the price, the washing machine has several wash modes and a timer. I used it for a week.",Neutral,Home Appliances
+"So far, the washing machine has several wash modes and a timer. I used it for a week.",Neutral,Home Appliances
+"Honestly, the washing machine has several wash modes and a timer.",Neutral,Home Appliances
+"So far, the washing machine has several wash modes and a timer. I bought it online.",Neutral,Home Appliances
+"In my experience, the washing machine has several wash modes and a timer. I bought it online.",Neutral,Home Appliances
+"Overall, the washing machine has several wash modes and a timer. I would check this before buying again.",Neutral,Home Appliances
+"So far, the washing machine has several wash modes and a timer. I would check this before buying again.",Neutral,Home Appliances
+"Overall, the washing machine has several wash modes and a timer. I bought it online.",Neutral,Home Appliances
+"Overall, the washing machine has several wash modes and a timer. I used it for a week.",Neutral,Home Appliances
+"After trying it, the refrigerator has two shelves and a separate freezer section. I would check this before buying again.",Neutral,Home Appliances
+"Honestly, the refrigerator has two shelves and a separate freezer section.",Neutral,Home Appliances
+"Overall, the refrigerator has two shelves and a separate freezer section. I used it for a week.",Neutral,Home Appliances
+"After trying it, the refrigerator has two shelves and a separate freezer section. I would check this before buying again.",Neutral,Home Appliances
+The refrigerator has two shelves and a separate freezer section.,Neutral,Home Appliances
+"So far, the refrigerator has two shelves and a separate freezer section.",Neutral,Home Appliances
+The refrigerator has two shelves and a separate freezer section. I used it for a week.,Neutral,Home Appliances
+The refrigerator has two shelves and a separate freezer section. I would check this before buying again.,Neutral,Home Appliances
+I noticed that the refrigerator has two shelves and a separate freezer section. I bought it online.,Neutral,Home Appliances
+"Overall, the refrigerator has two shelves and a separate freezer section. The description matched the item.",Neutral,Home Appliances
+The shirt is blue and has three buttons on the front. I used it for a week.,Neutral,Fashion & Apparel
+The shirt is blue and has three buttons on the front. I bought it online.,Neutral,Fashion & Apparel
+"For the price, the shirt is blue and has three buttons on the front. I used it for a week.",Neutral,Fashion & Apparel
+"For the price, the shirt is blue and has three buttons on the front. The description matched the item.",Neutral,Fashion & Apparel
+The shirt is blue and has three buttons on the front. I would check this before buying again.,Neutral,Fashion & Apparel
+"So far, the shirt is blue and has three buttons on the front. This is my first impression.",Neutral,Fashion & Apparel
+The shirt is blue and has three buttons on the front.,Neutral,Fashion & Apparel
+"For the price, the shirt is blue and has three buttons on the front. I used it for a week.",Neutral,Fashion & Apparel
+"For the price, the shirt is blue and has three buttons on the front. This is my first impression.",Neutral,Fashion & Apparel
+I noticed that the shirt is blue and has three buttons on the front. The description matched the item.,Neutral,Fashion & Apparel
+"In my experience, the shoes arrived in a cardboard box with spare laces. I used it for a week.",Neutral,Fashion & Apparel
+"After trying it, the shoes arrived in a cardboard box with spare laces. I used it for a week.",Neutral,Fashion & Apparel
+"Overall, the shoes arrived in a cardboard box with spare laces. I would check this before buying again.",Neutral,Fashion & Apparel
+"After trying it, the shoes arrived in a cardboard box with spare laces. I would check this before buying again.",Neutral,Fashion & Apparel
+"So far, the shoes arrived in a cardboard box with spare laces.",Neutral,Fashion & Apparel
+"Overall, the shoes arrived in a cardboard box with spare laces. I bought it online.",Neutral,Fashion & Apparel
+I noticed that the shoes arrived in a cardboard box with spare laces. The description matched the item.,Neutral,Fashion & Apparel
+The shoes arrived in a cardboard box with spare laces. I bought it online.,Neutral,Fashion & Apparel
+"Honestly, the shoes arrived in a cardboard box with spare laces. I used it for a week.",Neutral,Fashion & Apparel
+"Overall, the shoes arrived in a cardboard box with spare laces. I bought it online.",Neutral,Fashion & Apparel
+"Honestly, the bottle contains 100 ml and has a pump dispenser. The description matched the item.",Neutral,Beauty & Personal Care
+"Overall, the bottle contains 100 ml and has a pump dispenser. I bought it online.",Neutral,Beauty & Personal Care
+"Honestly, the bottle contains 100 ml and has a pump dispenser. This is my first impression.",Neutral,Beauty & Personal Care
+"For the price, the bottle contains 100 ml and has a pump dispenser. I bought it online.",Neutral,Beauty & Personal Care
+"Overall, the bottle contains 100 ml and has a pump dispenser. The description matched the item.",Neutral,Beauty & Personal Care
+"So far, the bottle contains 100 ml and has a pump dispenser. I bought it online.",Neutral,Beauty & Personal Care
+"So far, the bottle contains 100 ml and has a pump dispenser. This is my first impression.",Neutral,Beauty & Personal Care
+"Overall, the bottle contains 100 ml and has a pump dispenser. I bought it online.",Neutral,Beauty & Personal Care
+"Honestly, the bottle contains 100 ml and has a pump dispenser. I bought it online.",Neutral,Beauty & Personal Care
+I noticed that the bottle contains 100 ml and has a pump dispenser. I would check this before buying again.,Neutral,Beauty & Personal Care
+"Overall, the packet contains 12 pieces and lists the ingredients. I would check this before buying again.",Neutral,Food & Grocery
+"After trying it, the packet contains 12 pieces and lists the ingredients. I bought it online.",Neutral,Food & Grocery
+"After trying it, the packet contains 12 pieces and lists the ingredients. The description matched the item.",Neutral,Food & Grocery
+"Honestly, the packet contains 12 pieces and lists the ingredients. I bought it online.",Neutral,Food & Grocery
+"Honestly, the packet contains 12 pieces and lists the ingredients.",Neutral,Food & Grocery
+"Overall, the packet contains 12 pieces and lists the ingredients. I used it for a week.",Neutral,Food & Grocery
+The packet contains 12 pieces and lists the ingredients. I used it for a week.,Neutral,Food & Grocery
+"Honestly, the packet contains 12 pieces and lists the ingredients. This is my first impression.",Neutral,Food & Grocery
+"Overall, the packet contains 12 pieces and lists the ingredients. This is my first impression.",Neutral,Food & Grocery
+"So far, the packet contains 12 pieces and lists the ingredients. I bought it online.",Neutral,Food & Grocery
+I noticed that the table includes four legs and assembly hardware. This is my first impression.,Neutral,Furniture & Home
+"Overall, the table includes four legs and assembly hardware. This is my first impression.",Neutral,Furniture & Home
+"Overall, the table includes four legs and assembly hardware. This is my first impression.",Neutral,Furniture & Home
+"In my experience, the table includes four legs and assembly hardware. I bought it online.",Neutral,Furniture & Home
+"Honestly, the table includes four legs and assembly hardware. I would check this before buying again.",Neutral,Furniture & Home
+"Honestly, the table includes four legs and assembly hardware. This is my first impression.",Neutral,Furniture & Home
+"So far, the table includes four legs and assembly hardware. I would check this before buying again.",Neutral,Furniture & Home
+"In my experience, the table includes four legs and assembly hardware. I would check this before buying again.",Neutral,Furniture & Home
+"Honestly, the table includes four legs and assembly hardware.",Neutral,Furniture & Home
+"So far, the table includes four legs and assembly hardware. I used it for a week.",Neutral,Furniture & Home
+"Honestly, the package includes the product, a manual, and a warranty card. The description matched the item.",Neutral,Other Products
+"After trying it, the package includes the product, a manual, and a warranty card. I used it for a week.",Neutral,Other Products
+"After trying it, the package includes the product, a manual, and a warranty card. I bought it online.",Neutral,Other Products
+"In my experience, the package includes the product, a manual, and a warranty card. The description matched the item.",Neutral,Other Products
+"So far, the package includes the product, a manual, and a warranty card. I bought it online.",Neutral,Other Products
+"For the price, the package includes the product, a manual, and a warranty card. This is my first impression.",Neutral,Other Products
+"After trying it, the package includes the product, a manual, and a warranty card. The description matched the item.",Neutral,Other Products
+"In my experience, the package includes the product, a manual, and a warranty card. I used it for a week.",Neutral,Other Products
+"For the price, the package includes the product, a manual, and a warranty card.",Neutral,Other Products
+"Honestly, the package includes the product, a manual, and a warranty card. This is my first impression.",Neutral,Other Products

@@ -1,6 +1,10 @@
 
 # AI-Powered Customer VoC Review Intelligence Platform
 
+## 🚀 Live Demo
+
+**Try the application here:** [AI-Powered Customer VoC Review Intelligence](https://voc-review-intelligence-xexqrcqbzh4o3ulmfo9h7h.streamlit.app/)
+
 A local-first portfolio project that analyzes customer reviews, identifies aspect-level feedback and pain points, and turns evidence into concise business insights. It supports single-review analysis and optional batch CSV analysis.
 
 ## What is included

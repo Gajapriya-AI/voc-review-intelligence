@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Customer VoC Review Intelligence Platform
 
 A local-first portfolio project that analyzes customer reviews, identifies aspect-level feedback and pain points, and turns evidence into concise business insights. It supports single-review analysis and optional batch CSV analysis.
@@ -117,3 +118,7 @@ voc_review_intelligence/
 - Review predictions manually before using them for business decisions.
 - Check the licence and terms for any public dataset you add. Do not bundle customer personal information.
 - The app is a prototype and not a substitute for human review or a validated production system.
+=======
+# voc-review-intelligence
+AI-powered Voice of the Customer (VoC) platform that analyzes customer reviews using NLP and Machine Learning, predicts sentiment, identifies customer pain points, and visualizes insights through an interactive Streamlit dashboard.
+>>>>>>> e4ee963003bcd196fd01b424ccb2e4fafa780ee4
